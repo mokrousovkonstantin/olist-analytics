@@ -12,11 +12,11 @@ The goal of this analysis is to find revenue growth opportunities in an e-commer
 
 Revenue peaked at 1,2M in Nov 2017, driven by order growth (>7k), while AOV remained flat (150 – 175).
 
-![Count orders Trend](figures/01_Number_of_orders_by_month.png)
+![Count orders Trend](reports/figures/01_Number_of_orders_by_month.png)
 
-![Revenue Trend](figures/02_Revenue_by_month.png)
+![Revenue Trend](reports/figures/02_Revenue_by_month.png)
 
-![Average bill Trend](figures/03_Average_bill_by_month.png)
+![Average bill Trend](reports/figures/03_Average_bill_by_month.png)
 
 **Conclusion:** Revenue growth is driven purely by increasing order volume, while average order value remains flat. This indicates that growth is not scalable, as it depends solely on acquiring more orders rather than increasing revenue per order.
 
@@ -26,9 +26,9 @@ Revenue peaked at 1,2M in Nov 2017, driven by order growth (>7k), while AOV rema
 
 The concentration of sales volume and value by region is highly concentrated in SP state (38% of total sales and 41% of total orders). Therefore, the business is highly dependent on this region. The gap with the region in 2nd and 3rd place is three times. Also, the distribution of states by sales volume almost completely matches the distribution of states by number of orders.
 
-![Sales distribution by states](figures/07_Distribution_of_sales_by_state.png)
+![Sales distribution by states](reports/figures/07_Distribution_of_sales_by_state.png)
 
-![Number of orders distribution by states](figures/08_Distribution_of_the_number_of_orders_by_state.png)
+![Number of orders distribution by states](reports/figures/08_Distribution_of_the_number_of_orders_by_state.png)
 
 **Conclusion:** The high revenue share of SP state is achieved through scale (number of sellers and orders), not through efficiency.
 
@@ -46,7 +46,7 @@ The opposite situation is observed in other regions: fewer sellers and orders, b
 
 The average number of orders per customer is 1,03, indicating that the vast majority of users make only a single purchase.
 
-![Orders per unique customer Trend](figures/12_Number_of_orders_per_unique_customer_by_month.png)
+![Orders per unique customer Trend](reports/figures/12_Number_of_orders_per_unique_customer_by_month.png)
 
 **Interpretation:**
 The business generates minimal repeat sales and is highly dependent on continuous customer acquisition for revenue growth.
