@@ -30,3 +30,11 @@ Identify key drivers of revenue growth and structural limitations (retention, AO
 
 ## Tools
 Python (pandas, matplotlib), SQL
+
+## How to Run
+
+1. Clone repository
+2. Open notebooks/00_full_analysis.ipynb
+3. Run all cells
+
+Data is located in data/processed/data_mart.csv
