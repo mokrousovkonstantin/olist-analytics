@@ -22,7 +22,7 @@ Identify key drivers of revenue growth and structural limitations (retention, AO
 - Untapped potential in non-SP regions  
 
 ## Project Structure
-- /data/raw — raw data  
+- /data/raw — not included in repository
 - /data/processed — cleaned data  
 - /notebooks — analysis  
 - /figures — visualizations  
